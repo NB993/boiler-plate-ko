@@ -1,1 +1,4 @@
 node_modules
+
+#비밀정보를 담은 파일
+dev.js
